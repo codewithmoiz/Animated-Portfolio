@@ -18481,7 +18481,7 @@ function F2() {
             className: "flex space-x-1",
             children: [
               w.jsx("span", { children: "©" }),
-              w.jsx("span", { children: "2023" }),
+              w.jsx("span", { children: "2024" }),
               w.jsx("span", {
                 className: "font-extrabold uppercase 2xl:text-body-1",
                 children: "Abdul Moiz",
